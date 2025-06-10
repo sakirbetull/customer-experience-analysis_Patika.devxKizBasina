@@ -54,12 +54,19 @@ The dataset includes 1,000 synthetic customer records with the following key fea
 ## 📂 Project Structure
 
 customer-experience-analysis/
+
 │
+
 ├── customer_experience_data.csv
+
 │
+
 ├── customer_experience.ipynb
+
 │ 
+
 ├── README.md
+
 └── requirements.txt
 
 
